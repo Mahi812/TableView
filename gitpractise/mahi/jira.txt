@@ -1,0 +1,11 @@
+Hi, In Jira We Have Three Kinds Of Environments
+1.Server
+2.Atlassian Cloud
+3.DataCentre
+
+Server We Will Download Manually
+Cloud We Will Directly Login.
+Datacentre We Will Install
+
+
+These Are three things we will do 
